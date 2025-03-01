@@ -1,12 +1,12 @@
 package dev.endoy.bungeeutilisalsx.velocity.utils;
 
-import dev.endoy.bungeeutilisalsx.common.BuX;
-import dev.endoy.bungeeutilisalsx.common.api.server.IProxyServer;
-import dev.endoy.bungeeutilisalsx.common.api.user.interfaces.User;
 import com.velocitypowered.api.proxy.Player;
 import com.velocitypowered.api.proxy.messages.MinecraftChannelIdentifier;
 import com.velocitypowered.api.proxy.server.RegisteredServer;
 import com.velocitypowered.api.proxy.server.ServerPing.Players;
+import dev.endoy.bungeeutilisalsx.common.BuX;
+import dev.endoy.bungeeutilisalsx.common.api.server.IProxyServer;
+import dev.endoy.bungeeutilisalsx.common.api.user.interfaces.User;
 import lombok.Data;
 import net.kyori.adventure.text.serializer.gson.GsonComponentSerializer;
 

@@ -1,5 +1,6 @@
 package dev.endoy.bungeeutilisalsx.common.announcers.bossbar;
 
+import com.google.common.collect.Lists;
 import dev.endoy.bungeeutilisalsx.common.BuX;
 import dev.endoy.bungeeutilisalsx.common.api.announcer.Announcement;
 import dev.endoy.bungeeutilisalsx.common.api.bossbar.IBossBar;
@@ -8,7 +9,6 @@ import dev.endoy.bungeeutilisalsx.common.api.utils.TimeUnit;
 import dev.endoy.bungeeutilisalsx.common.api.utils.Utils;
 import dev.endoy.bungeeutilisalsx.common.api.utils.server.ServerGroup;
 import dev.endoy.configuration.api.IConfiguration;
-import com.google.common.collect.Lists;
 import lombok.EqualsAndHashCode;
 import lombok.Getter;
 import lombok.Setter;

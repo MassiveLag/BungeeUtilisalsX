@@ -1,5 +1,6 @@
 package dev.endoy.bungeeutilisalsx.common.storage.data.sql.dao.punishment;
 
+import com.google.common.collect.Lists;
 import dev.endoy.bungeeutilisalsx.common.BuX;
 import dev.endoy.bungeeutilisalsx.common.api.punishments.PunishmentInfo;
 import dev.endoy.bungeeutilisalsx.common.api.punishments.PunishmentType;
@@ -7,7 +8,6 @@ import dev.endoy.bungeeutilisalsx.common.api.storage.dao.Dao;
 import dev.endoy.bungeeutilisalsx.common.api.storage.dao.PunishmentDao;
 import dev.endoy.bungeeutilisalsx.common.api.storage.dao.punishments.MutesDao;
 import dev.endoy.bungeeutilisalsx.common.api.utils.Utils;
-import com.google.common.collect.Lists;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;

@@ -1,5 +1,6 @@
 package dev.endoy.bungeeutilisalsx.common.executors;
 
+import com.google.common.collect.Lists;
 import dev.endoy.bungeeutilisalsx.common.BuX;
 import dev.endoy.bungeeutilisalsx.common.api.event.event.Event;
 import dev.endoy.bungeeutilisalsx.common.api.event.event.EventExecutor;
@@ -9,7 +10,6 @@ import dev.endoy.bungeeutilisalsx.common.api.punishments.PunishmentInfo;
 import dev.endoy.bungeeutilisalsx.common.api.user.UserStorageKey;
 import dev.endoy.bungeeutilisalsx.common.api.utils.ReportUtils;
 import dev.endoy.bungeeutilisalsx.common.api.utils.config.ConfigFiles;
-import com.google.common.collect.Lists;
 
 import java.util.Date;
 import java.util.List;

@@ -1,5 +1,8 @@
 package dev.endoy.bungeeutilisalsx.velocity.bossbar;
 
+import com.google.common.collect.Lists;
+import com.velocitypowered.proxy.protocol.packet.BossBarPacket;
+import com.velocitypowered.proxy.protocol.packet.chat.ComponentHolder;
 import dev.endoy.bungeeutilisalsx.common.BuX;
 import dev.endoy.bungeeutilisalsx.common.api.bossbar.BarColor;
 import dev.endoy.bungeeutilisalsx.common.api.bossbar.BarStyle;
@@ -16,9 +19,6 @@ import dev.endoy.bungeeutilisalsx.common.api.user.interfaces.User;
 import dev.endoy.bungeeutilisalsx.common.api.utils.Utils;
 import dev.endoy.bungeeutilisalsx.common.api.utils.Version;
 import dev.endoy.bungeeutilisalsx.velocity.user.VelocityUser;
-import com.google.common.collect.Lists;
-import com.velocitypowered.proxy.protocol.packet.BossBarPacket;
-import com.velocitypowered.proxy.protocol.packet.chat.ComponentHolder;
 import lombok.Getter;
 import net.kyori.adventure.text.Component;
 import net.kyori.adventure.text.serializer.gson.GsonComponentSerializer;

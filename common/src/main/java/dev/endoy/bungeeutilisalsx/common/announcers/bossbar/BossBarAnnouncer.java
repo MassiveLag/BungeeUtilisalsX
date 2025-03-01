@@ -1,5 +1,6 @@
 package dev.endoy.bungeeutilisalsx.common.announcers.bossbar;
 
+import com.google.common.collect.Lists;
 import dev.endoy.bungeeutilisalsx.common.BuX;
 import dev.endoy.bungeeutilisalsx.common.api.announcer.AnnouncementType;
 import dev.endoy.bungeeutilisalsx.common.api.announcer.Announcer;
@@ -8,7 +9,6 @@ import dev.endoy.bungeeutilisalsx.common.api.utils.TimeUnit;
 import dev.endoy.bungeeutilisalsx.common.api.utils.config.ConfigFiles;
 import dev.endoy.bungeeutilisalsx.common.api.utils.server.ServerGroup;
 import dev.endoy.configuration.api.ISection;
-import com.google.common.collect.Lists;
 
 import java.util.List;
 import java.util.Optional;

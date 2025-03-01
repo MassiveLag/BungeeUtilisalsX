@@ -1,9 +1,9 @@
 package dev.endoy.bungeeutilisalsx.common.migration.mongo;
 
+import com.mongodb.client.MongoDatabase;
 import dev.endoy.bungeeutilisalsx.common.BuX;
 import dev.endoy.bungeeutilisalsx.common.migration.Migration;
 import dev.endoy.bungeeutilisalsx.common.storage.mongodb.MongoDBStorageManager;
-import com.mongodb.client.MongoDatabase;
 
 public interface MongoMigration extends Migration
 {

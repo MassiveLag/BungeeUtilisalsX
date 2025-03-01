@@ -1,10 +1,10 @@
 package dev.endoy.bungeeutilisalsx.velocity.utils.player;
 
+import com.velocitypowered.api.proxy.Player;
 import dev.endoy.bungeeutilisalsx.common.BuX;
 import dev.endoy.bungeeutilisalsx.common.api.server.IProxyServer;
 import dev.endoy.bungeeutilisalsx.common.api.utils.player.IPlayerUtils;
 import dev.endoy.bungeeutilisalsx.velocity.Bootstrap;
-import com.velocitypowered.api.proxy.Player;
 
 import java.util.ArrayList;
 import java.util.List;

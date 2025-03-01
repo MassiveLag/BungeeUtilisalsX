@@ -1,8 +1,8 @@
 package dev.endoy.bungeeutilisalsx.velocity;
 
-import dev.endoy.bungeeutilisalsx.common.IPluginDescription;
 import com.velocitypowered.api.plugin.PluginContainer;
 import com.velocitypowered.api.plugin.PluginDescription;
+import dev.endoy.bungeeutilisalsx.common.IPluginDescription;
 
 import java.io.File;
 import java.nio.file.Path;

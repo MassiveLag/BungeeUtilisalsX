@@ -9,7 +9,6 @@ import dev.endoy.configuration.json.JsonConfiguration;
 import java.io.IOException;
 import java.io.InputStream;
 import java.lang.reflect.Field;
-import java.util.function.Consumer;
 
 public class TestInjectionUtil
 {

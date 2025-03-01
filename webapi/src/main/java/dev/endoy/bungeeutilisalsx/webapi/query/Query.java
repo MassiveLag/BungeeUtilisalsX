@@ -1,5 +1,6 @@
 package dev.endoy.bungeeutilisalsx.webapi.query;
 
+import com.google.common.base.Strings;
 import dev.endoy.bungeeutilisalsx.common.BuX;
 import dev.endoy.bungeeutilisalsx.common.api.friends.FriendData;
 import dev.endoy.bungeeutilisalsx.common.api.punishments.PunishmentInfo;
@@ -8,7 +9,6 @@ import dev.endoy.bungeeutilisalsx.webapi.auth.RequiresPermission;
 import dev.endoy.bungeeutilisalsx.webapi.caching.Cacheable;
 import dev.endoy.bungeeutilisalsx.webapi.dto.*;
 import dev.endoy.bungeeutilisalsx.webapi.service.UserService;
-import com.google.common.base.Strings;
 import graphql.kickstart.tools.GraphQLQueryResolver;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Component;

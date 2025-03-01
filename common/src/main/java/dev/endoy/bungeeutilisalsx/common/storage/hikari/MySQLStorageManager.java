@@ -1,8 +1,8 @@
 package dev.endoy.bungeeutilisalsx.common.storage.hikari;
 
+import com.zaxxer.hikari.HikariConfig;
 import dev.endoy.bungeeutilisalsx.common.api.storage.StorageType;
 import dev.endoy.bungeeutilisalsx.common.api.utils.config.ConfigFiles;
-import com.zaxxer.hikari.HikariConfig;
 
 import java.sql.Connection;
 import java.sql.SQLException;

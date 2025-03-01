@@ -1,5 +1,7 @@
 package dev.endoy.bungeeutilisalsx.common.commands.general;
 
+import com.google.common.base.Joiner;
+import com.google.common.collect.Lists;
 import dev.endoy.bungeeutilisalsx.common.BuX;
 import dev.endoy.bungeeutilisalsx.common.api.command.CommandCall;
 import dev.endoy.bungeeutilisalsx.common.api.command.TabCall;
@@ -13,8 +15,6 @@ import dev.endoy.bungeeutilisalsx.common.api.utils.placeholders.MessagePlacehold
 import dev.endoy.bungeeutilisalsx.common.api.utils.server.ServerGroup;
 import dev.endoy.bungeeutilisalsx.common.api.utils.text.MessageBuilder;
 import dev.endoy.configuration.api.IConfiguration;
-import com.google.common.base.Joiner;
-import com.google.common.collect.Lists;
 import net.kyori.adventure.text.Component;
 
 import java.util.List;

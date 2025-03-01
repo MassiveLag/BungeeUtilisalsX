@@ -1,5 +1,7 @@
 package dev.endoy.bungeeutilisalsx.common.language;
 
+import com.google.common.collect.Lists;
+import com.google.common.collect.Maps;
 import dev.endoy.bungeeutilisalsx.common.BuX;
 import dev.endoy.bungeeutilisalsx.common.api.language.ILanguageManager;
 import dev.endoy.bungeeutilisalsx.common.api.language.Language;
@@ -10,8 +12,6 @@ import dev.endoy.bungeeutilisalsx.common.api.utils.config.ConfigFiles;
 import dev.endoy.configuration.api.FileStorageType;
 import dev.endoy.configuration.api.IConfiguration;
 import dev.endoy.configuration.api.ISection;
-import com.google.common.collect.Lists;
-import com.google.common.collect.Maps;
 import lombok.Getter;
 
 import java.io.File;

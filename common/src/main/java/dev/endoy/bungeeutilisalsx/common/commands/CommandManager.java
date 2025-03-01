@@ -1,5 +1,6 @@
 package dev.endoy.bungeeutilisalsx.common.commands;
 
+import com.google.common.collect.Lists;
 import dev.endoy.bungeeutilisalsx.common.BuX;
 import dev.endoy.bungeeutilisalsx.common.api.command.Command;
 import dev.endoy.bungeeutilisalsx.common.api.command.CommandBuilder;
@@ -24,7 +25,6 @@ import dev.endoy.bungeeutilisalsx.common.commands.punishments.removal.UnmuteIPCo
 import dev.endoy.bungeeutilisalsx.common.commands.report.ReportCommandCall;
 import dev.endoy.configuration.api.IConfiguration;
 import dev.endoy.configuration.api.ISection;
-import com.google.common.collect.Lists;
 
 import java.util.ArrayList;
 import java.util.Arrays;

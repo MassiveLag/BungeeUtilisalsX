@@ -1,10 +1,10 @@
 package dev.endoy.bungeeutilisalsx.webapi.service;
 
+import com.google.common.base.Strings;
 import dev.endoy.bungeeutilisalsx.common.BuX;
 import dev.endoy.bungeeutilisalsx.webapi.dto.CreatePunishmentInput;
 import dev.endoy.bungeeutilisalsx.webapi.dto.Punishment;
 import dev.endoy.bungeeutilisalsx.webapi.dto.RemovePunishmentInput;
-import com.google.common.base.Strings;
 import org.springframework.stereotype.Service;
 
 @Service

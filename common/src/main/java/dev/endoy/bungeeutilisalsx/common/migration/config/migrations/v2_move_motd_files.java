@@ -1,8 +1,8 @@
 package dev.endoy.bungeeutilisalsx.common.migration.config.migrations;
 
+import com.google.common.io.Files;
 import dev.endoy.bungeeutilisalsx.common.BuX;
 import dev.endoy.bungeeutilisalsx.common.migration.ConfigMigration;
-import com.google.common.io.Files;
 
 import java.io.File;
 

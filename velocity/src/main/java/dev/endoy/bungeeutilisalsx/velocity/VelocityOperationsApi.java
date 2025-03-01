@@ -1,11 +1,5 @@
 package dev.endoy.bungeeutilisalsx.velocity;
 
-import dev.endoy.bungeeutilisalsx.common.ServerOperationsApi;
-import dev.endoy.bungeeutilisalsx.common.api.command.Command;
-import dev.endoy.bungeeutilisalsx.common.api.server.IProxyServer;
-import dev.endoy.bungeeutilisalsx.common.api.utils.other.PluginInfo;
-import dev.endoy.bungeeutilisalsx.velocity.utils.CommandHolder;
-import dev.endoy.bungeeutilisalsx.velocity.utils.VelocityServer;
 import com.velocitypowered.api.command.CommandManager;
 import com.velocitypowered.api.command.CommandMeta;
 import com.velocitypowered.api.plugin.PluginContainer;
@@ -13,6 +7,12 @@ import com.velocitypowered.api.plugin.PluginDescription;
 import com.velocitypowered.api.plugin.meta.PluginDependency;
 import com.velocitypowered.api.proxy.server.RegisteredServer;
 import com.velocitypowered.api.proxy.server.ServerInfo;
+import dev.endoy.bungeeutilisalsx.common.ServerOperationsApi;
+import dev.endoy.bungeeutilisalsx.common.api.command.Command;
+import dev.endoy.bungeeutilisalsx.common.api.server.IProxyServer;
+import dev.endoy.bungeeutilisalsx.common.api.utils.other.PluginInfo;
+import dev.endoy.bungeeutilisalsx.velocity.utils.CommandHolder;
+import dev.endoy.bungeeutilisalsx.velocity.utils.VelocityServer;
 import net.kyori.adventure.text.Component;
 
 import java.util.HashMap;

@@ -2,7 +2,6 @@ package dev.endoy.bungeeutilisalsx.common.motd.handlers;
 
 import dev.endoy.bungeeutilisalsx.common.BuX;
 import dev.endoy.bungeeutilisalsx.common.api.utils.Version;
-import dev.endoy.bungeeutilisalsx.common.api.utils.config.ConfigFiles;
 import dev.endoy.bungeeutilisalsx.common.motd.ConditionHandler;
 import dev.endoy.bungeeutilisalsx.common.motd.MotdConnection;
 

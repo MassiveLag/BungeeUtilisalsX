@@ -1,5 +1,6 @@
 package dev.endoy.bungeeutilisalsx.velocity;
 
+import com.google.common.collect.Lists;
 import dev.endoy.bungeeutilisalsx.common.BuX;
 import dev.endoy.bungeeutilisalsx.common.IBuXApi;
 import dev.endoy.bungeeutilisalsx.common.api.announcer.Announcer;
@@ -19,7 +20,6 @@ import dev.endoy.bungeeutilisalsx.common.api.utils.placeholders.HasMessagePlaceh
 import dev.endoy.bungeeutilisalsx.common.api.utils.player.IPlayerUtils;
 import dev.endoy.bungeeutilisalsx.velocity.bossbar.BossBar;
 import dev.endoy.bungeeutilisalsx.velocity.user.VelocityConsoleUser;
-import com.google.common.collect.Lists;
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
 import net.kyori.adventure.text.Component;

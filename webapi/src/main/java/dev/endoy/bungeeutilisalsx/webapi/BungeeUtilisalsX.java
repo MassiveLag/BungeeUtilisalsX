@@ -1,6 +1,9 @@
 package dev.endoy.bungeeutilisalsx.webapi;
 
-import dev.endoy.bungeeutilisalsx.common.*;
+import dev.endoy.bungeeutilisalsx.common.AbstractBungeeUtilisalsX;
+import dev.endoy.bungeeutilisalsx.common.IBuXApi;
+import dev.endoy.bungeeutilisalsx.common.IPluginDescription;
+import dev.endoy.bungeeutilisalsx.common.ServerOperationsApi;
 import dev.endoy.bungeeutilisalsx.common.api.utils.Platform;
 import dev.endoy.bungeeutilisalsx.common.api.utils.config.ConfigFiles;
 import dev.endoy.bungeeutilisalsx.common.api.utils.other.StaffUser;

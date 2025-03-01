@@ -1,5 +1,6 @@
 package dev.endoy.bungeeutilisalsx.common.commands.punishments;
 
+import com.google.common.collect.Lists;
 import dev.endoy.bungeeutilisalsx.common.BuX;
 import dev.endoy.bungeeutilisalsx.common.api.command.CommandCall;
 import dev.endoy.bungeeutilisalsx.common.api.punishments.PunishmentInfo;
@@ -11,7 +12,6 @@ import dev.endoy.bungeeutilisalsx.common.api.user.interfaces.User;
 import dev.endoy.bungeeutilisalsx.common.api.utils.MathUtils;
 import dev.endoy.bungeeutilisalsx.common.api.utils.Utils;
 import dev.endoy.bungeeutilisalsx.common.api.utils.placeholders.MessagePlaceholders;
-import com.google.common.collect.Lists;
 
 import java.util.Collection;
 import java.util.List;

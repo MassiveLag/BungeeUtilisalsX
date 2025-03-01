@@ -1,10 +1,10 @@
 package dev.endoy.bungeeutilisalsx.common.event;
 
-import dev.endoy.bungeeutilisalsx.common.BuX;
-import dev.endoy.bungeeutilisalsx.common.api.event.event.*;
 import com.google.common.collect.ImmutableSet;
 import com.google.common.collect.Lists;
 import com.google.common.collect.Sets;
+import dev.endoy.bungeeutilisalsx.common.BuX;
+import dev.endoy.bungeeutilisalsx.common.api.event.event.*;
 
 import java.lang.reflect.Method;
 import java.util.*;

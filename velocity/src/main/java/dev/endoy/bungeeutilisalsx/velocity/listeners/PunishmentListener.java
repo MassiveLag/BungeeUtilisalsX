@@ -1,5 +1,11 @@
 package dev.endoy.bungeeutilisalsx.velocity.listeners;
 
+import com.velocitypowered.api.event.PostOrder;
+import com.velocitypowered.api.event.ResultedEvent;
+import com.velocitypowered.api.event.Subscribe;
+import com.velocitypowered.api.event.connection.LoginEvent;
+import com.velocitypowered.api.event.player.ServerPreConnectEvent;
+import com.velocitypowered.api.proxy.Player;
 import dev.endoy.bungeeutilisalsx.common.BuX;
 import dev.endoy.bungeeutilisalsx.common.api.language.Language;
 import dev.endoy.bungeeutilisalsx.common.api.punishments.PunishmentInfo;
@@ -10,12 +16,6 @@ import dev.endoy.bungeeutilisalsx.common.api.user.UserStorage;
 import dev.endoy.bungeeutilisalsx.common.api.utils.Utils;
 import dev.endoy.bungeeutilisalsx.common.api.utils.config.ConfigFiles;
 import dev.endoy.configuration.api.IConfiguration;
-import com.velocitypowered.api.event.PostOrder;
-import com.velocitypowered.api.event.ResultedEvent;
-import com.velocitypowered.api.event.Subscribe;
-import com.velocitypowered.api.event.connection.LoginEvent;
-import com.velocitypowered.api.event.player.ServerPreConnectEvent;
-import com.velocitypowered.api.proxy.Player;
 
 import java.util.Optional;
 import java.util.UUID;

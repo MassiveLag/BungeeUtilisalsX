@@ -1,5 +1,6 @@
 package dev.endoy.bungeeutilisalsx.common.protocolize.guis.opener;
 
+import com.google.common.base.Strings;
 import dev.endoy.bungeeutilisalsx.common.BuX;
 import dev.endoy.bungeeutilisalsx.common.api.user.interfaces.User;
 import dev.endoy.bungeeutilisalsx.common.api.utils.placeholders.MessagePlaceholders;
@@ -8,7 +9,6 @@ import dev.endoy.bungeeutilisalsx.common.protocolize.gui.GuiOpener;
 import dev.endoy.bungeeutilisalsx.common.protocolize.gui.config.GuiConfig;
 import dev.endoy.bungeeutilisalsx.common.protocolize.gui.config.GuiConfigItem;
 import dev.endoy.bungeeutilisalsx.common.protocolize.guis.custom.CustomGuiItemProvider;
-import com.google.common.base.Strings;
 
 import java.io.File;
 import java.util.HashMap;

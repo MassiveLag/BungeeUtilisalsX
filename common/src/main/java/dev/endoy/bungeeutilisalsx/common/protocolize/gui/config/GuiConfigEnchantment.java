@@ -1,7 +1,7 @@
 package dev.endoy.bungeeutilisalsx.common.protocolize.gui.config;
 
-import dev.endoy.configuration.api.ISection;
 import com.google.common.base.Strings;
+import dev.endoy.configuration.api.ISection;
 import dev.simplix.protocolize.api.item.ItemStack;
 import lombok.Data;
 import net.querz.nbt.tag.CompoundTag;

@@ -1,13 +1,13 @@
 package dev.endoy.bungeeutilisalsx.velocity.utils.player;
 
-import dev.endoy.bungeeutilisalsx.common.BuX;
-import dev.endoy.bungeeutilisalsx.common.api.server.IProxyServer;
-import dev.endoy.bungeeutilisalsx.common.api.utils.player.IPlayerUtils;
-import dev.endoy.bungeeutilisalsx.velocity.Bootstrap;
 import com.google.common.collect.Lists;
 import com.imaginarycode.minecraft.redisbungee.RedisBungeeAPI;
 import com.velocitypowered.api.proxy.server.RegisteredServer;
 import com.velocitypowered.api.proxy.server.ServerInfo;
+import dev.endoy.bungeeutilisalsx.common.BuX;
+import dev.endoy.bungeeutilisalsx.common.api.server.IProxyServer;
+import dev.endoy.bungeeutilisalsx.common.api.utils.player.IPlayerUtils;
+import dev.endoy.bungeeutilisalsx.velocity.Bootstrap;
 
 import java.util.List;
 import java.util.Optional;

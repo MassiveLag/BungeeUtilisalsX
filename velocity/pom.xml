@@ -51,7 +51,7 @@
             <scope>compile</scope>
         </dependency>
         <dependency>
-            <groupId>com.github.limework.redisbungee</groupId>
+            <groupId>com.github.ProxioDev.ValioBungee</groupId>
             <artifactId>RedisBungee-Velocity</artifactId>
             <version>0.12.3</version>
             <scope>provided</scope>

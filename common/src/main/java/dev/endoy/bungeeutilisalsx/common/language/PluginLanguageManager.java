@@ -1,5 +1,6 @@
 package dev.endoy.bungeeutilisalsx.common.language;
 
+import com.google.common.io.ByteStreams;
 import dev.endoy.bungeeutilisalsx.common.BuX;
 import dev.endoy.bungeeutilisalsx.common.api.language.Language;
 import dev.endoy.bungeeutilisalsx.common.api.language.LanguageConfig;
@@ -7,7 +8,6 @@ import dev.endoy.bungeeutilisalsx.common.api.utils.config.ConfigFiles;
 import dev.endoy.configuration.api.FileStorageType;
 import dev.endoy.configuration.api.IConfiguration;
 import dev.endoy.configuration.yaml.YamlConfigurationOptions;
-import com.google.common.io.ByteStreams;
 
 import java.io.*;
 import java.util.logging.Level;

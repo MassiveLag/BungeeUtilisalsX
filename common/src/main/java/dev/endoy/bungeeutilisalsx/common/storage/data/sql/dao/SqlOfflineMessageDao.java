@@ -1,9 +1,9 @@
 package dev.endoy.bungeeutilisalsx.common.storage.data.sql.dao;
 
+import com.google.gson.Gson;
 import dev.endoy.bungeeutilisalsx.common.BuX;
 import dev.endoy.bungeeutilisalsx.common.api.storage.dao.OfflineMessageDao;
 import dev.endoy.bungeeutilisalsx.common.api.utils.placeholders.MessagePlaceholders;
-import com.google.gson.Gson;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;

@@ -1,9 +1,9 @@
 package dev.endoy.bungeeutilisalsx.common.migration.config.migrations;
 
-import dev.endoy.bungeeutilisalsx.common.BuX;
-import dev.endoy.bungeeutilisalsx.common.migration.ConfigMigration;
 import com.google.common.io.MoreFiles;
 import com.google.common.io.RecursiveDeleteOption;
+import dev.endoy.bungeeutilisalsx.common.BuX;
+import dev.endoy.bungeeutilisalsx.common.migration.ConfigMigration;
 
 import java.io.File;
 

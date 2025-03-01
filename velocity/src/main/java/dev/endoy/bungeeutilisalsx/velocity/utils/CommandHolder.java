@@ -1,11 +1,11 @@
 package dev.endoy.bungeeutilisalsx.velocity.utils;
 
-import dev.endoy.bungeeutilisalsx.common.BuX;
-import dev.endoy.bungeeutilisalsx.common.api.command.Command;
-import dev.endoy.bungeeutilisalsx.common.api.user.interfaces.User;
 import com.velocitypowered.api.command.CommandSource;
 import com.velocitypowered.api.command.SimpleCommand;
 import com.velocitypowered.api.proxy.Player;
+import dev.endoy.bungeeutilisalsx.common.BuX;
+import dev.endoy.bungeeutilisalsx.common.api.command.Command;
+import dev.endoy.bungeeutilisalsx.common.api.user.interfaces.User;
 
 import java.util.List;
 

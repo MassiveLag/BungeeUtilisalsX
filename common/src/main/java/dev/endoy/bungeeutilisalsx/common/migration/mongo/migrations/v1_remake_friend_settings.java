@@ -1,8 +1,8 @@
 package dev.endoy.bungeeutilisalsx.common.migration.mongo.migrations;
 
+import com.mongodb.client.MongoCollection;
 import dev.endoy.bungeeutilisalsx.common.api.friends.FriendSetting;
 import dev.endoy.bungeeutilisalsx.common.migration.mongo.MongoMigration;
-import com.mongodb.client.MongoCollection;
 import org.bson.Document;
 
 import java.util.ArrayList;

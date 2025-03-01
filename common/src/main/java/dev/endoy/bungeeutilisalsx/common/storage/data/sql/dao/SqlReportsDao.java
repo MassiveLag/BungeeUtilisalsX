@@ -1,10 +1,10 @@
 package dev.endoy.bungeeutilisalsx.common.storage.data.sql.dao;
 
+import com.google.common.collect.Lists;
 import dev.endoy.bungeeutilisalsx.common.BuX;
 import dev.endoy.bungeeutilisalsx.common.api.storage.dao.Dao;
 import dev.endoy.bungeeutilisalsx.common.api.storage.dao.ReportsDao;
 import dev.endoy.bungeeutilisalsx.common.api.utils.other.Report;
-import com.google.common.collect.Lists;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;

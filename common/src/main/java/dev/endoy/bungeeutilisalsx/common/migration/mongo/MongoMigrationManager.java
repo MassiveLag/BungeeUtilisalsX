@@ -1,14 +1,14 @@
 package dev.endoy.bungeeutilisalsx.common.migration.mongo;
 
+import com.mongodb.client.MongoCollection;
+import com.mongodb.client.MongoDatabase;
+import com.mongodb.client.model.Filters;
 import dev.endoy.bungeeutilisalsx.common.BuX;
 import dev.endoy.bungeeutilisalsx.common.api.utils.Utils;
 import dev.endoy.bungeeutilisalsx.common.migration.FileMigration;
 import dev.endoy.bungeeutilisalsx.common.migration.Migration;
 import dev.endoy.bungeeutilisalsx.common.migration.MigrationManager;
 import dev.endoy.bungeeutilisalsx.common.storage.mongodb.MongoDBStorageManager;
-import com.mongodb.client.MongoCollection;
-import com.mongodb.client.MongoDatabase;
-import com.mongodb.client.model.Filters;
 import lombok.SneakyThrows;
 import org.bson.Document;
 

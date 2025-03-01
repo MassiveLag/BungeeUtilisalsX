@@ -1,8 +1,8 @@
 package dev.endoy.bungeeutilisalsx.webapi.caching;
 
+import com.google.common.cache.Cache;
 import dev.endoy.bungeeutilisalsx.common.api.cache.CacheHelper;
 import dev.endoy.bungeeutilisalsx.common.api.utils.config.ConfigFiles;
-import com.google.common.cache.Cache;
 import lombok.Value;
 import org.aspectj.lang.ProceedingJoinPoint;
 import org.aspectj.lang.annotation.Around;

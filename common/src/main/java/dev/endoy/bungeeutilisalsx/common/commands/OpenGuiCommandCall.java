@@ -1,10 +1,10 @@
 package dev.endoy.bungeeutilisalsx.common.commands;
 
+import com.google.common.base.Strings;
 import dev.endoy.bungeeutilisalsx.common.BuX;
 import dev.endoy.bungeeutilisalsx.common.api.command.CommandCall;
 import dev.endoy.bungeeutilisalsx.common.api.job.jobs.OpenGuiJob;
 import dev.endoy.bungeeutilisalsx.common.api.user.interfaces.User;
-import com.google.common.base.Strings;
 
 import java.util.List;
 

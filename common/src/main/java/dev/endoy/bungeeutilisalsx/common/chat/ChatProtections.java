@@ -1,10 +1,10 @@
 package dev.endoy.bungeeutilisalsx.common.chat;
 
+import com.google.common.collect.Lists;
 import dev.endoy.bungeeutilisalsx.common.chat.protections.AdvertisementChatProtection;
 import dev.endoy.bungeeutilisalsx.common.chat.protections.CapsChatProtection;
 import dev.endoy.bungeeutilisalsx.common.chat.protections.SpamChatProtection;
 import dev.endoy.bungeeutilisalsx.common.chat.protections.SwearChatProtection;
-import com.google.common.collect.Lists;
 
 import java.lang.reflect.Field;
 import java.lang.reflect.Modifier;

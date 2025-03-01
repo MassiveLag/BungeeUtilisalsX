@@ -1,12 +1,12 @@
 package dev.endoy.bungeeutilisalsx.common.storage.hikari;
 
+import com.zaxxer.hikari.HikariConfig;
+import com.zaxxer.hikari.HikariDataSource;
 import dev.endoy.bungeeutilisalsx.common.api.storage.StorageType;
 import dev.endoy.bungeeutilisalsx.common.storage.data.sql.SQLDao;
 import dev.endoy.bungeeutilisalsx.common.storage.sql.SQLStorageManager;
 import dev.endoy.configuration.api.IConfiguration;
 import dev.endoy.configuration.api.ISection;
-import com.zaxxer.hikari.HikariConfig;
-import com.zaxxer.hikari.HikariDataSource;
 import lombok.Getter;
 
 import java.util.Arrays;

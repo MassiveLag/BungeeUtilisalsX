@@ -1,5 +1,6 @@
 package dev.endoy.bungeeutilisalsx.common.party;
 
+import com.google.common.collect.Lists;
 import dev.endoy.bungeeutilisalsx.common.BuX;
 import dev.endoy.bungeeutilisalsx.common.api.job.jobs.*;
 import dev.endoy.bungeeutilisalsx.common.api.party.*;
@@ -12,7 +13,6 @@ import dev.endoy.bungeeutilisalsx.common.api.utils.config.ConfigFiles;
 import dev.endoy.bungeeutilisalsx.common.api.utils.config.configs.PartyConfig.PartyRole;
 import dev.endoy.bungeeutilisalsx.common.api.utils.placeholders.HasMessagePlaceholders;
 import dev.endoy.bungeeutilisalsx.common.api.utils.placeholders.MessagePlaceholders;
-import com.google.common.collect.Lists;
 
 import java.util.*;
 

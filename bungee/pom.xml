@@ -54,9 +54,9 @@
             <scope>provided</scope>
         </dependency>
         <dependency>
-            <groupId>com.github.limework.redisbungee</groupId>
+            <groupId>com.github.ProxioDev.ValioBungee</groupId>
             <artifactId>RedisBungee-Bungee</artifactId>
-            <version>0.9.0</version>
+            <version>0.12.3</version>
             <scope>provided</scope>
         </dependency>
         <dependency>

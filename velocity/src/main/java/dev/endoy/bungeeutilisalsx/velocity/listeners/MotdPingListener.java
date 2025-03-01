@@ -1,13 +1,13 @@
 package dev.endoy.bungeeutilisalsx.velocity.listeners;
 
-import dev.endoy.bungeeutilisalsx.common.BuX;
-import dev.endoy.bungeeutilisalsx.common.api.event.events.other.ProxyMotdPingEvent;
-import dev.endoy.bungeeutilisalsx.velocity.utils.VelocityMotdConnection;
 import com.velocitypowered.api.event.Subscribe;
 import com.velocitypowered.api.event.proxy.ProxyPingEvent;
 import com.velocitypowered.api.proxy.InboundConnection;
 import com.velocitypowered.api.proxy.server.ServerPing;
 import com.velocitypowered.api.proxy.server.ServerPing.SamplePlayer;
+import dev.endoy.bungeeutilisalsx.common.BuX;
+import dev.endoy.bungeeutilisalsx.common.api.event.events.other.ProxyMotdPingEvent;
+import dev.endoy.bungeeutilisalsx.velocity.utils.VelocityMotdConnection;
 
 import java.util.stream.Collectors;
 

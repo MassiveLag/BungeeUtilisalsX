@@ -1,5 +1,6 @@
 package dev.endoy.bungeeutilisalsx.common.storage.data.sql.dao;
 
+import com.google.common.collect.Lists;
 import dev.endoy.bungeeutilisalsx.common.BuX;
 import dev.endoy.bungeeutilisalsx.common.api.friends.FriendData;
 import dev.endoy.bungeeutilisalsx.common.api.friends.FriendRequest;
@@ -7,7 +8,6 @@ import dev.endoy.bungeeutilisalsx.common.api.friends.FriendSetting;
 import dev.endoy.bungeeutilisalsx.common.api.friends.FriendSettings;
 import dev.endoy.bungeeutilisalsx.common.api.storage.dao.Dao;
 import dev.endoy.bungeeutilisalsx.common.api.storage.dao.FriendsDao;
-import com.google.common.collect.Lists;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;

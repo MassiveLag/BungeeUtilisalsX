@@ -1,5 +1,6 @@
 package dev.endoy.bungeeutilisalsx.common.commands.general;
 
+import com.google.common.collect.Lists;
 import dev.endoy.bungeeutilisalsx.common.BuX;
 import dev.endoy.bungeeutilisalsx.common.api.command.CommandCall;
 import dev.endoy.bungeeutilisalsx.common.api.command.TabCall;
@@ -8,7 +9,6 @@ import dev.endoy.bungeeutilisalsx.common.api.job.jobs.ChatLockJob;
 import dev.endoy.bungeeutilisalsx.common.api.user.interfaces.User;
 import dev.endoy.bungeeutilisalsx.common.api.utils.config.ConfigFiles;
 import dev.endoy.bungeeutilisalsx.common.api.utils.placeholders.MessagePlaceholders;
-import com.google.common.collect.Lists;
 
 import java.util.List;
 import java.util.stream.Stream;

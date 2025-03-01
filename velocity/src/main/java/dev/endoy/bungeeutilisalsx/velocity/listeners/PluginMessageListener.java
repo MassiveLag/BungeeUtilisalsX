@@ -1,13 +1,13 @@
 package dev.endoy.bungeeutilisalsx.velocity.listeners;
 
-import dev.endoy.bungeeutilisalsx.common.BuX;
-import dev.endoy.bungeeutilisalsx.common.api.event.events.user.UserPluginMessageReceiveEvent;
-import dev.endoy.bungeeutilisalsx.common.api.user.interfaces.User;
-import dev.endoy.bungeeutilisalsx.velocity.Bootstrap;
 import com.velocitypowered.api.event.Subscribe;
 import com.velocitypowered.api.event.connection.PluginMessageEvent;
 import com.velocitypowered.api.proxy.Player;
 import com.velocitypowered.api.proxy.messages.MinecraftChannelIdentifier;
+import dev.endoy.bungeeutilisalsx.common.BuX;
+import dev.endoy.bungeeutilisalsx.common.api.event.events.user.UserPluginMessageReceiveEvent;
+import dev.endoy.bungeeutilisalsx.common.api.user.interfaces.User;
+import dev.endoy.bungeeutilisalsx.velocity.Bootstrap;
 
 import java.util.Optional;
 

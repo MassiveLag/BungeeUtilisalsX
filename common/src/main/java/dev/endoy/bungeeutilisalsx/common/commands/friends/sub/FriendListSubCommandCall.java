@@ -1,5 +1,6 @@
 package dev.endoy.bungeeutilisalsx.common.commands.friends.sub;
 
+import com.google.common.collect.Lists;
 import dev.endoy.bungeeutilisalsx.common.BuX;
 import dev.endoy.bungeeutilisalsx.common.api.command.CommandCall;
 import dev.endoy.bungeeutilisalsx.common.api.friends.FriendData;
@@ -9,7 +10,6 @@ import dev.endoy.bungeeutilisalsx.common.api.utils.MathUtils;
 import dev.endoy.bungeeutilisalsx.common.api.utils.StaffUtils;
 import dev.endoy.bungeeutilisalsx.common.api.utils.Utils;
 import dev.endoy.bungeeutilisalsx.common.api.utils.placeholders.MessagePlaceholders;
-import com.google.common.collect.Lists;
 
 import java.util.List;
 

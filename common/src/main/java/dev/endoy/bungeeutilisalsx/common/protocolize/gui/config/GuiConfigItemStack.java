@@ -1,5 +1,6 @@
 package dev.endoy.bungeeutilisalsx.common.protocolize.gui.config;
 
+import com.google.common.collect.Lists;
 import dev.endoy.bungeeutilisalsx.common.BuX;
 import dev.endoy.bungeeutilisalsx.common.api.pluginsupport.PluginSupport;
 import dev.endoy.bungeeutilisalsx.common.api.user.interfaces.User;
@@ -9,7 +10,6 @@ import dev.endoy.bungeeutilisalsx.common.api.utils.placeholders.MessagePlacehold
 import dev.endoy.bungeeutilisalsx.common.pluginsupport.TritonPluginSupport;
 import dev.endoy.bungeeutilisalsx.common.protocolize.gui.utils.ItemUtils;
 import dev.endoy.configuration.api.ISection;
-import com.google.common.collect.Lists;
 import dev.simplix.protocolize.api.chat.ChatElement;
 import dev.simplix.protocolize.api.item.ItemStack;
 import dev.simplix.protocolize.api.item.component.CustomModelDataComponent;

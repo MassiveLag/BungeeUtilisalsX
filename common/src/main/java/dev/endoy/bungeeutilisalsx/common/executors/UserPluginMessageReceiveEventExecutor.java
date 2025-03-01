@@ -1,5 +1,7 @@
 package dev.endoy.bungeeutilisalsx.common.executors;
 
+import com.google.common.io.ByteArrayDataInput;
+import com.google.common.io.ByteStreams;
 import dev.endoy.bungeeutilisalsx.common.BuX;
 import dev.endoy.bungeeutilisalsx.common.api.event.event.Event;
 import dev.endoy.bungeeutilisalsx.common.api.event.event.EventExecutor;
@@ -7,8 +9,6 @@ import dev.endoy.bungeeutilisalsx.common.api.event.events.user.UserPluginMessage
 import dev.endoy.bungeeutilisalsx.common.api.placeholder.PlaceHolderAPI;
 import dev.endoy.bungeeutilisalsx.common.api.user.interfaces.User;
 import dev.endoy.bungeeutilisalsx.common.api.utils.config.ConfigFiles;
-import com.google.common.io.ByteArrayDataInput;
-import com.google.common.io.ByteStreams;
 
 public class UserPluginMessageReceiveEventExecutor implements EventExecutor
 {
